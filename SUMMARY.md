@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [ZeroTree](README.md)
+* [Vim](vim.md)
 
