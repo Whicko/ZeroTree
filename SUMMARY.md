@@ -1,6 +1,6 @@
 # Table of contents
 
 * [ZeroTree](README.md)
-* [Vim](vim.md)
-* [vim-plug](vim-plug.md)
+* [Vim](vim/README.md)
+  * [vim-plug](vim/vim-plug.md)
 
