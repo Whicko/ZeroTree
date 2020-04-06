@@ -14,9 +14,16 @@ docker pull postgres:12.2
 
 ### 创建容器
 
-
-```
+```shell
 docker run --name postgres -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres:12.2
 ```
 
-- POSTGRES_PASSWORD: 设置 `postgres` 数据库链接密码
+在上例中使用 `postgres12.2` 的镜像创建一个名字为 `postgres` 的容器，并且通过设置环境变量 `POSTGRES_PASSWORD` 设置数据库访问密码。同时设置本机5432和容器的5432端口映射。
+
+### 启动容器
+
+```shell
+docker start postgres
+```
+
+通过 `docker` 的 `start` 命令启动容器，现在就可以访问在 `docker` 中的数据库了。

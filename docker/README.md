@@ -13,11 +13,10 @@ brew cask install docker
 
 安装完成后校验是否安装完成
 
-```
+```shell
 docker version
 ```
 
-```
+```shell
 docker info
 ```
-
