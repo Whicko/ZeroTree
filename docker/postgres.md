@@ -4,7 +4,7 @@
 
 ### 下载PostgreSql镜像
 
-> `Docker Hub` 中提供了官方的 `PostgreSql` 镜像。 可以访问查看自己需要的数据库版本镜像 ![hub.docker.com/_/postgres](https://hub.docker.com/_/postgres)  
+> `Docker Hub` 中提供了官方的 `PostgreSql` 镜像。 可以访问查看自己需要的数据库版本镜像 [hub.docker.com/_/postgres](https://hub.docker.com/_/postgres)  
 
 下载 ```Postgres 12.2``` 镜像
 
