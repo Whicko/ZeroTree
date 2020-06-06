@@ -12,5 +12,5 @@
   * [Vim Plug](vim/vim-plug.md)
 * [Zsh](zsh/README.md)
   * [Ohmyzsh](zsh/ohmyzsh.md)
-  * [zini](zsh/zini.md)
+  * [zinit](zsh/zini.md)
 
